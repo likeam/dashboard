@@ -1,4 +1,3 @@
-import { tree } from "next/dist/build/templates/app-page";
 import React from "react";
 
 const Analytics = () => {
